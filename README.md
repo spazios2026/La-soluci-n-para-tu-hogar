@@ -67,10 +67,9 @@ Dividimos nuestra experiencia en dos pilares fundamentales con atención especia
 
 * **📍 Oficina Central:** Lima, Perú
 * **💬 WhatsApp Business:** [](https://wa.me/51984359359)
-* **🌐 Sitio Web / Portafolio:** [www.spazios.pe](http://www.spazios.pe)
+* **🌐 Sitio Web / Portafolio:** [www.spazios.pe](https://spazios2026.github.io/Spazios-oficial-/)
 * **📸 FACEBOOK:** [https://www.facebook.com/miguel.rodriguez.44819)
 
----
 
 <p align="center">
   <sub>Desarrollado con ❤️ para el confort de las familias peruanas. © 2026 SPAZIOS. Todos los derechos reservados.</sub>
