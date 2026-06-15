@@ -8,6 +8,15 @@
 
 ---
 
+## 📸 Vista de la Plataforma / Galería
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/spazios2026/Spazios-oficial-/refs/heads/main/Screenshot_20260615-131643_1.png" alt="Diseño SPAZIOS" width="350" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);"/>
+</p>
+
+---
+---
+
 ## ⚡ El Hogar que Imaginas, Hecho Realidad
 
 En **SPAZIOS** entendemos que tu hogar es tu santuario. Por eso, hemos fusionado dos mundos esenciales para el bienestar de tu vivienda: **la precisión técnica de la plomería y el arte del diseño de interiores.**
