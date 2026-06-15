@@ -66,7 +66,7 @@ Dividimos nuestra experiencia en dos pilares fundamentales con atención especia
 ¿Estás en Lima y listo para transformar tu espacio? ¡Hablemos!
 
 * **📍 Oficina Central:** Lima, Perú
-* **💬 WhatsApp Business:** [](https://wa.me/51984359359)
+* **💬 WhatsApp Business:** [+51 984 359 359](https://wa.me/51984359359?text=Hola%20Spazios,%20deseo%20cotizar%20un%20servicio.)
 * **🌐 Sitio Web / Portafolio:** [www.spazios.pe](https://spazios2026.github.io/Spazios-oficial-/)
 * **📸 FACEBOOK:** [https://www.facebook.com/miguel.rodriguez.44819)
 
